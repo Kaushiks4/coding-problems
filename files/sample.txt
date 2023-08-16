@@ -1,0 +1,3 @@
+This is an example file for testing file reading in Java.
+It contains a few paragraphs that we'll read using Java code.
+Feel free to modify this text or add more paragraphs for testing.
