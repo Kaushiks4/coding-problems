@@ -7,7 +7,7 @@ import java.util.Date;
  * createdAt, and
  * updatedAt.
  */
-public class File {
+public class FileModel {
     private String filename;
     private long filesize;
     private Date createdAt;
